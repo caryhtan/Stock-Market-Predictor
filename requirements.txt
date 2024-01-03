@@ -1,0 +1,1 @@
+yfinance==0.1.63  # or whichever version you wish to use
